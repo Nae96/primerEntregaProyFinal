@@ -1,0 +1,32 @@
+[
+	  {
+	    "title": "New balance",
+	    "description": "Zapatilla Gris New Balance Wl373hn2",
+	    "price": 25900,
+	    "code": 13564981,
+	    "stock": 10,
+	    "thumbnail": "http://localhost:8080/public/newbalance.jpg",
+	    "timestamp": 1661440714514,
+	    "id": 1
+	  },
+	  {
+	    "title": "nike",
+	    "description": "Zapatillas W Crater Impact Nike Blast Tienda Oficial",
+	    "price": 9960,
+	    "code": 21342112,
+	    "stock": 25,
+	    "thumbnail": "http://localhost:8080/public/nike.jpg",
+	    "timestamp": 1661440723514,
+	    "id": 2
+	  },
+	  {
+	    "title": "adidas",
+	    "description": "ZAPATILLAS FORTARUN LACE RUNNING",
+	    "price": 26000,
+	    "code": 112333,
+	    "stock": 8,
+	    "thumbnail": "http://localhost:8080/public/adidas.jpg",
+	    "timestamp": 1661440145514,
+	    "id": 3
+	  }
+	]
